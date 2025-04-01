@@ -1,4 +1,3 @@
-# 💫 About Me:
 💫 About Me:<br>👋 Hi! I'm Gurkamal Singh, a budding software developer with a knack for front-end technologies and web development. Born and bred around codes and components, I'm currently navigating through my Bachelor’s degree in Electronics and Communication Engineering at Guru Nanak Dev University, set to graduate in 2025. 🎓From crafting a social marketing website that enhances digital engagement to piecing together my personal portfolio site, my journey through programming languages like Java and JavaScript alongside tools like React.js and Node.js has been nothing short of thrilling.
 
 
